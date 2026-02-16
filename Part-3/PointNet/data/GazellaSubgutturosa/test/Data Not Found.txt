@@ -1,0 +1,23 @@
+Unfortunately, due to storage restrictions from GitHub, I cannot upload the original scan data here.
+This is a list of all files, that should be placed here:
+* SAPM-MA-02026.mtl
+* SAPM-MA-02026.obj
+* SAPM-MA-02026_1.jpg
+* SAPM-MA-02033.mtl
+* SAPM-MA-02033.obj
+* SAPM-MA-02033_1.jpg
+* SAPM-MA-02041.mtl
+* SAPM-MA-02041.obj
+* SAPM-MA-02041_1.jpg
+* SAPM-MA-02051.mtl
+* SAPM-MA-02051.obj
+* SAPM-MA-02051_1.jpg
+* SAPM-MA-02067.mtl
+* SAPM-MA-02067.obj
+* SAPM-MA-02067_1.jpg
+* SAPM-MA-02073.mtl
+* SAPM-MA-02073.obj
+* SAPM-MA-02073_1.jpg
+* SAPM-MA-02074.mtl
+* SAPM-MA-02074.obj
+* SAPM-MA-02074_1.jpg
